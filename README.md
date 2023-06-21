@@ -58,6 +58,7 @@ Na aula essa códigos, tem cadastra os e-mail senha.
 
 Tecnologias utilizadas:
 
+
 • JavaScript
 
 • Google App Script
@@ -68,7 +69,21 @@ Erro: TypeError: Cannot read properties of null (reading 'value')
 
 Descrição: Não foi possível ler a propriedade especificada ao tentar utilizar a função getElementById(). Solução: Isso acontece porque o valor passado como parâmetro para a função getElementById() é diferente do Id do elemento que está sendo acessado
 
+#Aula de web dia 21/06/2023
+PORTFÓLIO PARA DOCUMENTAR O PROCESSO DE APRENDIZADO DA AULA DE PROGRAMAÇÃO WEB
 
+ARQUIVO (S)
 
+<input>
+<button>
+<label>
+
+não tive dificuldade por que atividade estava explicando como fuciona
+
+TECNOLOGIAS UTILIZADAS:
+
+..Google app script
+
+DESCRIÇÃO:calcular, Devemos realizar no script cálculos do valor total da merenda, que será o resultado da multiplicação do número de alunos pelo valor unitário da merenda e pelo total de dias letivos no mês.
 
 
