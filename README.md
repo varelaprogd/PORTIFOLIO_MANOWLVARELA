@@ -71,6 +71,8 @@ Descrição: Não foi possível ler a propriedade especificada ao tentar utiliza
 
 #Aula de web dia 21/06/2023
 PORTFÓLIO PARA DOCUMENTAR O PROCESSO DE APRENDIZADO DA AULA DE PROGRAMAÇÃO WEB
+PROJETO:Desenvolver um projeto Google App
+Script que contenha um formulário HTML com os seguintes campos.
 
 ARQUIVO (S)
 
@@ -85,5 +87,6 @@ TECNOLOGIAS UTILIZADAS:
 ..Google app script
 
 DESCRIÇÃO:calcular, Devemos realizar no script cálculos do valor total da merenda, que será o resultado da multiplicação do número de alunos pelo valor unitário da merenda e pelo total de dias letivos no mês.
+
 
 
