@@ -71,6 +71,7 @@ Descrição: Não foi possível ler a propriedade especificada ao tentar utiliza
 
 #Aula de web dia 21/06/2023
 PORTFÓLIO PARA DOCUMENTAR O PROCESSO DE APRENDIZADO DA AULA DE PROGRAMAÇÃO WEB
+
 PROJETO:Desenvolver um projeto Google App
 Script que contenha um formulário HTML com os seguintes campos.
 
@@ -80,13 +81,29 @@ ARQUIVO (S)
 <button>
 <label>
 
-não tive dificuldade por que atividade estava explicando como fuciona
+  Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+  não tive dificuldade por que atividade estava explicando como fuciona
 
 TECNOLOGIAS UTILIZADAS:
 
-..Google app script
+.Google app script
 
 DESCRIÇÃO:calcular, Devemos realizar no script cálculos do valor total da merenda, que será o resultado da multiplicação do número de alunos pelo valor unitário da merenda e pelo total de dias letivos no mês.
 
+#aula do dia 22/06/2023
+#PORTFÓLIO PARA DOCUMENTAR O PROCESSO DE APRENDIZANDO DA AULA DE PROGRAMAÇÃO WEB
+PORJETO:Altere o projeto acima para que os dados do formulário sejam enviados por meio do
+método POST do protocolo HTTP, calcule o valor final e exiba no log do servidor.
 
+ARQUIVO:
+<from>
+<html>
+<label>
+<input>
 
+Dificuldades/erros encontrados durante o desenvolvimento do projeto:Eu tive dificuldade para colocar as tag do programa, mas consegui ajeitar as tag.
+
+TECNOLOGIAS UTILIZADAS:
+.Google app script
+
+DESCRIÇÃO: processar os dados no servidor, é necessário criar uma página HTML que irá receber os dados do formulário e chamar a função de cálculo. No exemplo abaixo, a página HTML se chama "processa_formulario.html", mas o nome pode ser alterado.
