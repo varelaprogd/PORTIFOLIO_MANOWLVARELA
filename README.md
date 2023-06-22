@@ -21,7 +21,7 @@ Erro: TypeError: Cannot read properties of null (reading 'value')
 Descrição: Não foi possível ler a propriedade especificada ao tentar utilizar a função getElementById(). Solução: Isso acontece porque o valor passado como parâmetro para a função getElementById() é diferente do Id do elemento que está sendo acessado
 
 
-# aula de web 01/06/2023
+ aula de web 01/06/2023
 PORTFÓLIO PARA DOCUMENTAR O PROCESSO DE APRENDIZADO DA PROGRAMAÇÃO WEB
 Projeto: Página para calcular média de peso
 
@@ -44,7 +44,7 @@ Erro: TypeError: Cannot read properties of null (reading 'value')
 
 Descrição: Não foi possível ler a propriedade especificada ao tentar utilizar a função getElementById(). Solução: Isso acontece porque o valor passado como parâmetro para a função getElementById() é diferente do Id do elemento que está sendo acessado
   
-  # aula de web 02/06/2023
+   aula de web 02/06/2023
 PORTFÓLIO PARA DOCUMENTAR O PROCESSO DE APRENDIZADO DA PROGRAMAÇÃO WEB
 Projeto: cadrastra e-mail e senha
 
@@ -69,7 +69,7 @@ Erro: TypeError: Cannot read properties of null (reading 'value')
 
 Descrição: Não foi possível ler a propriedade especificada ao tentar utilizar a função getElementById(). Solução: Isso acontece porque o valor passado como parâmetro para a função getElementById() é diferente do Id do elemento que está sendo acessado
 
-#Aula de web dia 21/06/2023
+Aula de web dia 21/06/2023
 PORTFÓLIO PARA DOCUMENTAR O PROCESSO DE APRENDIZADO DA AULA DE PROGRAMAÇÃO WEB
 
 PROJETO:Desenvolver um projeto Google App
@@ -90,7 +90,7 @@ TECNOLOGIAS UTILIZADAS:
 
 DESCRIÇÃO:calcular, Devemos realizar no script cálculos do valor total da merenda, que será o resultado da multiplicação do número de alunos pelo valor unitário da merenda e pelo total de dias letivos no mês.
 
-#aula do dia 22/06/2023
+aula do dia 22/06/2023
 #PORTFÓLIO PARA DOCUMENTAR O PROCESSO DE APRENDIZANDO DA AULA DE PROGRAMAÇÃO WEB
 PORJETO:Altere o projeto acima para que os dados do formulário sejam enviados por meio do
 método POST do protocolo HTTP, calcule o valor final e exiba no log do servidor.
