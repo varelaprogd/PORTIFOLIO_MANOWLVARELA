@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <script>
+      function calcular() {
+        var numAlunos = parseInt(document.getElementById("numAlunos").value);
+        var valorUnitario = parseFloat(document.getElementById("valorUnitario").value);
+        var diasLetivos = parseInt(document.getElementById("diasLetivos").value);
+        
+        var valorTotal = numAlunos * valorUnitario * diasLetivos;
+        
+        document.getElementById("valorTotal").value = valorTotal.toFixed(2);
+      }
+    </script>
+  </head>
+  <body>
+    <label for="numAlunos">Número de alunos:</label>
+    <input type="number" id="numAlunos" name="numAlunos" required><br><br>
+    
+    <label for="valorUnitario">Valor unitário da merenda:</label>
+    <input type="number" id="valorUnitario" name="valorUnitario" step="0.01" required><br><br>
+    
+    <label for="diasLetivos">Total de dias letivos no mês:</label>
+    <input type="number" id="diasLetivos" name="diasLetivos" required><br><br>
+    
+    <input type="button" value="Calcular" onclick="calcular()"><br><br>
+    
+    <label for="valorTotal">Valor total da merenda:</label>
+    <input type="text" id="valorTotal" name="valorTotal" readonly>
+  </body>
+</html>
+
