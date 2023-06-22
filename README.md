@@ -88,6 +88,7 @@ TECNOLOGIAS UTILIZADAS:
 .Google app script
 
 DESCRIÇÃO:calcular, Devemos realizar no script cálculos do valor total da merenda, que será o resultado da multiplicação do número de alunos pelo valor unitário da merenda e pelo total de dias letivos no mês.
+
 #aula do dia 22/06/2023
 #PORTFÓLIO PARA DOCUMENTAR O PROCESSO DE APRENDIZANDO DA AULA DE PROGRAMAÇÃO WEB
 PORJETO:Altere o projeto acima para que os dados do formulário sejam enviados por meio do
