@@ -19,7 +19,7 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
 Descrição: Não foi possível ler a propriedade especificada ao tentar utilizar a função getElementById(). Solução: Isso acontece porque o valor passado como parâmetro para a função getElementById() é diferente do Id do elemento que está sendo acessado
-
+link:https://script.google.com/macros/s/AKfycbzwiIKagLqrHealbAApdQyGoezY6kIADYRD4OhhcKkp3S27YWmIlMFuZ1k5WdbesTqI/exec
  #aula de web 01/06/2023
 PORTFÓLIO PARA DOCUMENTAR O PROCESSO DE APRENDIZADO DA PROGRAMAÇÃO WEB
 Projeto: Página para calcular média de peso
@@ -67,6 +67,7 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
 Descrição: Não foi possível ler a propriedade especificada ao tentar utilizar a função getElementById(). Solução: Isso acontece porque o valor passado como parâmetro para a função getElementById() é diferente do Id do elemento que está sendo acessado
+link:https://script.google.com/macros/s/AKfycbyDrVuyyGq06X1IXrl4lbbC4oPCX1UUIT8pWN8ZG0q68TEhYcEY69LgZP5rOIu7NNI-yQ/exec
 
 #Aula de web dia 21/06/2023
 PORTFÓLIO PARA DOCUMENTAR O PROCESSO DE APRENDIZADO DA AULA DE PROGRAMAÇÃO WEB
@@ -88,6 +89,7 @@ TECNOLOGIAS UTILIZADAS:
 .Google app script
 
 DESCRIÇÃO:calcular, Devemos realizar no script cálculos do valor total da merenda, que será o resultado da multiplicação do número de alunos pelo valor unitário da merenda e pelo total de dias letivos no mês.
+link:https://script.google.com/macros/s/AKfycbzNe6jghLTMncyI3HgndpLJOKTADWIOdq1XGChQm0U0AB_36Ov5WBa-VxFM8jYmSSMs2g/exec
 
 #aula do dia 22/06/2023
 #PORTFÓLIO PARA DOCUMENTAR O PROCESSO DE APRENDIZANDO DA AULA DE PROGRAMAÇÃO WEB
@@ -106,3 +108,4 @@ TECNOLOGIAS UTILIZADAS:
 .Google app script
 
 DESCRIÇÃO: processar os dados no servidor, é necessário criar uma página HTML que irá receber os dados do formulário e chamar a função de cálculo. No exemplo abaixo, a página HTML se chama "processa_formulario.html", mas o nome pode ser alterado.
+link:https://script.google.com/macros/s/AKfycbzutmywsESQ0EuJWEf7crcSnnFUKdjNxtVtOZkD-U2FDL7OTqJkZtIZbhrUS-4RS873nA/exec
